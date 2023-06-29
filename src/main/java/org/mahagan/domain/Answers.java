@@ -4,7 +4,7 @@ import jakarta.persistence.*;
 
 import javax.sql.rowset.serial.SerialStruct;
 import java.io.Serializable;
-//This is my first OneToMany mapping relationship application
+//This is my Second OneToMany mapping relationship application
 @Entity
 @Table(name = "answer1")
 public class Answers implements Serializable {
